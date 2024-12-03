@@ -1,5 +1,7 @@
 # Mary's Apocalypse
 
+Devido ao tamanho do jogo, o GitHub não foi capaz de suportar e tivemos que passa-lo a outra plataforma para download.
+
 **Mary's Apocalypse** é um jogo **top-down shooter** emocionante desenvolvido utilizando o **Godot Engine 4.2**. O jogo coloca você no papel de Mary, uma heroína determinada a sobreviver em um mundo pós-apocalíptico repleto de perigos e inimigos desafiadores.
 
 ## 🎮 Gameplay
